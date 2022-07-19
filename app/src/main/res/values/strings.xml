@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Take</string>
+    <string name="app_name">BitFLyer Test</string>
     <string name="text_search">Search Github users</string>
 
     <string name="text_data_is_not_found">Data is not found</string>
